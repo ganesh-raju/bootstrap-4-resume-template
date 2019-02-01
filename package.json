@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://opensnippets.github.io/bootstrap-4-resume-template",
+  "homepage": "https://opensnippets.github.io/bootstrap-personal-resume-theme",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
